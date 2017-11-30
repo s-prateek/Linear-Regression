@@ -1,0 +1,10 @@
+c:\Users\Prateek\Desktop\linear regression\bin\Debug\netcoreapp2.0\linear regression.deps.json
+c:\Users\Prateek\Desktop\linear regression\bin\Debug\netcoreapp2.0\linear regression.runtimeconfig.json
+c:\Users\Prateek\Desktop\linear regression\bin\Debug\netcoreapp2.0\linear regression.runtimeconfig.dev.json
+c:\Users\Prateek\Desktop\linear regression\bin\Debug\netcoreapp2.0\linear regression.dll
+c:\Users\Prateek\Desktop\linear regression\bin\Debug\netcoreapp2.0\linear regression.pdb
+c:\Users\Prateek\Desktop\linear regression\obj\Debug\netcoreapp2.0\linear regression.csproj.CoreCompileInputs.cache
+c:\Users\Prateek\Desktop\linear regression\obj\Debug\netcoreapp2.0\linear regression.AssemblyInfoInputs.cache
+c:\Users\Prateek\Desktop\linear regression\obj\Debug\netcoreapp2.0\linear regression.AssemblyInfo.cs
+c:\Users\Prateek\Desktop\linear regression\obj\Debug\netcoreapp2.0\linear regression.dll
+c:\Users\Prateek\Desktop\linear regression\obj\Debug\netcoreapp2.0\linear regression.pdb
